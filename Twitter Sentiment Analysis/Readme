@@ -1,1 +1,9 @@
 
+In this project the objective is to classify various tweets as positive or negative
+The dataset has been downloaded from Kaggle. 
+For classification a comparitive study has been done considering three different algorithms
+1. SVM classification with Linear kernel
+2. SVM classification with Sigmoid kernel
+3. Logistic Regression
+
+The highest accuracy has been achived in the case of SVM classification linear kernel which is 96.37%.
