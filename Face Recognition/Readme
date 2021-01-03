@@ -1,1 +1,2 @@
-
+This program reads input image and crops it to facial region.
+It works for single person.
